@@ -1,5 +1,4 @@
-#include "../device.h"
-#include "../utility.h"
+#include "headsetcontrol_test.h"
 
 #include <stdio.h>
 #include <stdlib.h>

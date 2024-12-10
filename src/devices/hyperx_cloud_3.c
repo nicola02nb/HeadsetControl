@@ -1,8 +1,6 @@
-#include "../device.h"
-#include "../utility.h"
+#include "hyperx_cloud_3.h"
 
 #include <hidapi.h>
-#include <stdlib.h>
 #include <string.h>
 
 #define VENDOR_HYPERX_CLOUD 0x03f0

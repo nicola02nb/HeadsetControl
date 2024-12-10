@@ -1,4 +1,5 @@
-#include "../device.h"
+#include "logitech_g430.h"
+#include "logitech.h"
 
 #include <stdio.h>
 #include <string.h>

@@ -1,13 +1,11 @@
-#include "../device.h"
-#include "../utility.h"
+#include "logitech_g930.h"
 #include "logitech.h"
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <unistd.h>
 
 #include <hidapi.h>
 #include <string.h>
+#include <unistd.h>
+
+#include "../utility.h"
 
 #define BATTERY_MAX 91
 #define BATTERY_MIN 44

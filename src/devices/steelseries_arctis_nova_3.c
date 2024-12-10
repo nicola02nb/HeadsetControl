@@ -1,8 +1,10 @@
-#include "../device.h"
+#include "steelseries_arctis_nova_3.h"
 
 #include <hidapi.h>
 #include <stdio.h>
 #include <string.h>
+
+#include "../device.h"
 
 #define MSG_SIZE 64
 

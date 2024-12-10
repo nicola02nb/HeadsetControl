@@ -1,8 +1,9 @@
-#include "../device.h"
-#include "../utility.h"
+#include "corsair_void.h"
 
 #include <hidapi.h>
 #include <string.h>
+
+#include "../utility.h"
 
 static struct device device_void;
 

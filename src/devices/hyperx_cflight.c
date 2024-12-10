@@ -4,12 +4,10 @@
 
 // This file is part of HeadsetControl.
 
-#include "../device.h"
-#include "../utility.h"
+#include "hyperx_cflight.h"
 
 #include <hidapi.h>
 #include <math.h>
-#include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
 

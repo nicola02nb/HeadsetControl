@@ -1,8 +1,9 @@
-#include "../device.h"
-#include "../utility.h"
+#include "steelseries_arctis_nova_pro_wireless.h"
 
 #include <stdio.h>
 #include <string.h>
+
+#include "../utility.h"
 
 static struct device device_arctis;
 

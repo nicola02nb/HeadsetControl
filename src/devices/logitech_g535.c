@@ -1,11 +1,11 @@
-#include "../device.h"
-#include "../utility.h"
+#include "logitech_g535.h"
 #include "logitech.h"
 
-#include <math.h>
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
+
+#include "../utility.h"
 
 static struct device device_g535;
 

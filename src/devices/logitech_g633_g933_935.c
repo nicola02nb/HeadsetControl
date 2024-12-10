@@ -1,9 +1,8 @@
-#include "../device.h"
+#include "logitech_g633_g933_935.h"
 #include "logitech.h"
 
 #include <hidapi.h>
 #include <math.h>
-#include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
 

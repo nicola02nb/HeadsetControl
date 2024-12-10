@@ -1,11 +1,10 @@
-#include "../device.h"
-#include "../utility.h"
+#include "steelseries_arctis_1.h"
 
 #include <hidapi.h>
 #include <stdlib.h>
 #include <string.h>
 
-#include <stdio.h>
+#include "../utility.h" 
 
 static struct device device_arctis;
 

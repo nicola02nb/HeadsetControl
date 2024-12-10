@@ -1,4 +1,4 @@
-#include "../device.h"
+#include "roccat_elo_7_1_air.h"
 
 #include <inttypes.h>
 #include <stdio.h>

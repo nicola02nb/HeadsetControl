@@ -1,9 +1,10 @@
-#include "../device.h"
-#include "../utility.h"
+#include "logitech_g533.h"
 #include "logitech.h"
 
 #include <math.h>
 #include <string.h>
+
+#include "../utility.h"
 
 #define MSG_SIZE 64
 

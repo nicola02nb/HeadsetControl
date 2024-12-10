@@ -1,8 +1,9 @@
-#include "../device.h"
-#include "../utility.h"
+#include "logitech_g432.h"
 #include "logitech.h"
 
 #include <string.h>
+
+#include "../utility.h"
 
 static struct device device_g432;
 
