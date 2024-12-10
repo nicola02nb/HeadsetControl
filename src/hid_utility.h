@@ -1,9 +1,7 @@
 #pragma once
 
 #include <hidapi.h>
-
-#include <inttypes.h>
-#include <stdlib.h>
+#include <stdint.h>
 
 /**
  *  @brief Helper fetching a copied HID path for a given device description.

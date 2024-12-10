@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 
 /**
  *  @brief Helper fetching a copied HID path for a given device description.

@@ -1,6 +1,7 @@
 #pragma once
 
 #include <stdarg.h>
+#include <stdint.h>
 
 // For unused variables
 #define UNUSED(x) (void)x;
